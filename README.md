@@ -6,7 +6,7 @@ Deluge Dashboard is a very simple way to display [Deluge](https://deluge-torrent
 
 To use, simply import the dashboard into Grafana using ID `9846`.
 
-View the dashboard on [Grafana.org](https://grafana.com/dashboards/9846/)
+View the dashboard on [Grafana.org](https://grafana.com/grafana/dashboards/16080/)
 
 ### Manual Installation ###
 You can copy/paste the raw .json data into Grafana via the `Dashboards` -> `Import` menu, or save the .json file and import the file.
