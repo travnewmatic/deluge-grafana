@@ -10,3 +10,6 @@ View the dashboard on [Grafana.org](https://grafana.com/grafana/dashboards/16080
 
 ### Manual Installation ###
 You can copy/paste the raw .json data into Grafana via the `Dashboards` -> `Import` menu, or save the .json file and import the file.
+
+
+Largely stolen from [here](https://github.com/tobbez/deluge_exporter/issues/8#issuecomment-991965301).
